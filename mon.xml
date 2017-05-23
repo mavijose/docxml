@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE presse SYSTEM "mon.dtd">
+
+<presse id="journal les tic">
+
+    <journaliste datenaissance="1942-01-08" sexe="F">
+
+        <nom>AMON</nom>
+        <prenom>Florentine</prenom>
+        <publication>Une brève histoire du temps</publication>
+        <numero-pub>N°5</numero-pub>
+        <date-pub> 06/07/2013</date-pub>
+        <type> decouverte </type>
+        <nb_page> 10 </nb_page> 
+        <emails> amonflo@gmail.com</emails>
+
+    </journaliste>
+
+    <journaliste datenaissance="1932-07-13" sexe="H">
+
+        <nom>BROU</nom>
+        <prenom>Hubert</prenom>
+        <publication>L'Univers expliqué à mes petits-enfants</publication>
+        <publication>Patience dans l'azur, L'évolution cosmique</publication>
+        <publication>Poussières d'étoiles</publication>
+        <numero-pub>N°9</numero-pub>
+        <date-pub> 31/03/2013</date-pub>
+        <type> Univers des enfants </type>
+        <nb_page> 45 </nb_page>
+        <emails> brou45@gmail.com </emails>
+
+    </journaliste>
+
+    <journaliste datenaissance="1879-03-14" sexe="H">
+
+        <nom>KOFFI</nom>
+        <prenom>Fulbert</prenom>
+        <publication>Des ondes gravitationnelles</publication>
+        <publication>Sur la théorie quantique du rayonnement</publication>
+        <numero-pub>N°1</numero-pub>
+        <date-pub> 02/02/2013</date-pub>
+        <type> science </type>
+        <nb_page> 25 </nb_page>
+        <emails> kofful@yahoo.fr</emails>
+
+    </journaliste>
+
+    <journaliste datenaissance="1867-11-07" sexe="F">
+
+        <nom>DAGNOGO</nom>
+        <prenom>Christina</prenom>
+        <publication>traité de radioactivité</publication>
+        <numero-pub>N°3</numero-pub>
+        <date-pub> 12/12/2013</date-pub>
+        <type> Technologie </type>
+        <nb_page> 15</nb_page>
+        <emails> dagnochris@gmzil.com</emails>
+
+    </journaliste>
+
+</presse>
+
+

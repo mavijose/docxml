@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!ELEMENT presse    (journaliste*)>
+<!ELEMENT journaliste  (nom,prenom,publication,numero-pub,date-pub,type,nb_page,emails+)>
+<!ATTLIST journaliste sexe (H | F) "H">
+<!ELEMENT nom       (#PCDATA)>
+<!ELEMENT prenom    (#PCDATA)>
+<!ELEMENT publication (#PCDATA)>
+<!ELEMENT numero-pub (#PCDATA)>
+<!ELEMENT date-pub (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT nb_page (#PCDATA)> 
+<!ELEMENT emails (#PCDATA)>
